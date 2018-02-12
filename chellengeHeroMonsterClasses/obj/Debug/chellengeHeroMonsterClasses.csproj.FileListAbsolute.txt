@@ -1,0 +1,9 @@
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\bin\chellengeHeroMonsterClasses.dll.config
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\bin\chellengeHeroMonsterClasses.dll
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\bin\chellengeHeroMonsterClasses.pdb
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\obj\Debug\chellengeHeroMonsterClasses.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\obj\Debug\chellengeHeroMonsterClasses.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\obj\Debug\chellengeHeroMonsterClasses.dll
+C:\Users\Tyler Blackman\source\repos\chellengeHeroMonsterClasses\chellengeHeroMonsterClasses\obj\Debug\chellengeHeroMonsterClasses.pdb
